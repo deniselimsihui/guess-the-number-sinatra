@@ -1,0 +1,42 @@
+@im
+
+html{
+  height:100%;
+}
+body {height:100%;
+  background-image:url("img/light-bg1.png");
+  color:black;
+  text-align:center;
+  font-family: 'Oswald', sans-serif;
+}
+h1{
+  color:black
+
+}
+.title{
+ font-size: 5em;
+   font-family: 'Oswald', sans-serif
+
+}
+.btn{
+  font-size: inherit;
+  color:white;
+  background-color:purple;
+  text-decoration:none;
+  padding: 1em;
+  margin-bottom:1.5em;
+  display:inline-block;
+}
+
+.guess{
+  font-size:2em;
+  display:block;
+  margin: 0 auto 1.5em;
+}
+.title2{
+  font-size: 5em;
+  color:pink;
+}
+.trophy{
+  height:300px;
+}
